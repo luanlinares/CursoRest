@@ -13,7 +13,7 @@
 			<artifactId>rest-assured</artifactId>
 			<version>4.0.0</version>
 		</dependency>
-		<dependency>s
+		<dependency>
 		    <groupId>com.google.code.gson</groupId>
 		    <artifactId>gson</artifactId>
 		    <version>2.8.5</version>
@@ -22,6 +22,11 @@
     		<groupId>junit</groupId>
     		<artifactId>junit</artifactId>
    			<version>4.12</version>
-		</dependency>	
+		</dependency>
+		<dependency>
+		    <groupId>io.rest-assured</groupId>
+		    <artifactId>json-schema-validator</artifactId>
+		    <version>4.0.0</version>
+		</dependency>			
 	</dependencies>
 </project>
