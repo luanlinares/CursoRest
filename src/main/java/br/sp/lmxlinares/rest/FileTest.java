@@ -54,7 +54,7 @@ public class FileTest {
 	}
 	
 	@Test
-	public void 	 () throws IOException {
+	public void deveFazerDownloadArquivo () throws IOException {
 		byte[] image = given()
 		.log().all()
 	.when()
